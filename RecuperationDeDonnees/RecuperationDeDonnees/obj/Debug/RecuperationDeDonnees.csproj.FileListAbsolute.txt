@@ -1,0 +1,9 @@
+c:\users\théau\documents\visual studio 2015\Projects\RecuperationDeDonnees\RecuperationDeDonnees\bin\Debug\RecuperationDeDonnees.exe.config
+c:\users\théau\documents\visual studio 2015\Projects\RecuperationDeDonnees\RecuperationDeDonnees\bin\Debug\RecuperationDeDonnees.exe
+c:\users\théau\documents\visual studio 2015\Projects\RecuperationDeDonnees\RecuperationDeDonnees\bin\Debug\RecuperationDeDonnees.pdb
+c:\users\théau\documents\visual studio 2015\Projects\RecuperationDeDonnees\RecuperationDeDonnees\obj\Debug\RecuperationDeDonnees.csprojResolveAssemblyReference.cache
+c:\users\théau\documents\visual studio 2015\Projects\RecuperationDeDonnees\RecuperationDeDonnees\obj\Debug\RecuperationDeDonnees.Form1.resources
+c:\users\théau\documents\visual studio 2015\Projects\RecuperationDeDonnees\RecuperationDeDonnees\obj\Debug\RecuperationDeDonnees.Properties.Resources.resources
+c:\users\théau\documents\visual studio 2015\Projects\RecuperationDeDonnees\RecuperationDeDonnees\obj\Debug\RecuperationDeDonnees.csproj.GenerateResource.Cache
+c:\users\théau\documents\visual studio 2015\Projects\RecuperationDeDonnees\RecuperationDeDonnees\obj\Debug\RecuperationDeDonnees.exe
+c:\users\théau\documents\visual studio 2015\Projects\RecuperationDeDonnees\RecuperationDeDonnees\obj\Debug\RecuperationDeDonnees.pdb
